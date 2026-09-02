@@ -1,0 +1,11 @@
+{
+  "runtime_sha256": "e8550f5f87e1a0f5c520d0c61fb5a85df130e1002f92148cf7d80e32c95caaea",
+  "schema_version": 1,
+  "sha256": {
+    "booster.json": "df46db5f487e0ed2f341c6e4b034cb1218333334abc9d1b52cd4cfde943623e2",
+    "golden_tests.json": "5ee041bd79b5d6c418b3df9c108f688c6f84c3b136c4cab37b6669adaf844a9a",
+    "model.json": "bf1cef17d62eb53370709674230cce70c5c133f6f5d469161d488fc0e319de9e"
+  },
+  "source_data_sha256": "50a056ac92019b1f0d512e8f665b28fd58cbaf89cb27ed6f6a4431d777d82267",
+  "source_split_sha256": "f5962f1aef01a9d80490bad80305d9a9efb50f526d1ebc1100bf156a44b4f875"
+}
